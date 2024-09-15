@@ -1,4 +1,4 @@
 # Apnacollegedemo
 1st git rep.
 <br>
-Author-Rishabh Singh.
+<h1>Author-Rishabh Singh.<h1></h1>
